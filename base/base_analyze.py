@@ -13,5 +13,18 @@ def analyze_data(file_name, key):
 
     with open(r".%sdata%s%s.yaml" % (os.sep, os.sep, file_name), "r",encoding="utf-8") as f:
         data_list = list()
-        data_list.extend(yaml.load(f)[key].values())
+        data_list.extend(yaml.safe_load(f)[key].values())
         return data_list
+settings_yaml_path="D:\\settings.yaml"
+def settings_read_yaml(n,k):
+    # 打开文件
+    with open(settings_yaml_path,"r",encoding="utf-8") as f:
+        data=yaml.load(f,Loader=yaml.FullLoader)
+        try:
+            #判断传入的n是否在存在
+            if n in data.keys():
+                return data[n][k]
+            else:
+                print(f"n：{n}不存在")
+        except Exception as e :
+            print(f"key值{e}不存在")

@@ -1,18 +1,25 @@
+# 安装pip install appium-python-client==2.11.0,
+# appium2.0代码安装npm install appium@next
 from appium import webdriver
-
-
+from appium.webdriver.common.appiumby import AppiumBy
+from base.base_analyze import settings_read_yaml
 def init_driver(no_reset=True):
-    desired_caps = dict()
-    desired_caps['platformName'] = 'Android'
-    desired_caps['platformVersion'] = '5.1'
-    desired_caps['deviceName'] = '192.168.56.101:5555'
-    desired_caps['appPackage'] = 'me.ele'
-    desired_caps['appActivity'] = 'com.ali.user.mobile.login.ui.UserLoginActivity'
-    desired_caps['automationName'] = 'Uiautomator2'
-    desired_caps['noReset'] = no_reset
-
-    return webdriver.Remote('http://localhost:4723/wd/hub', desired_caps)
-# ba8749b7或M2012K11AC
+    caps = {}
+    caps["platformName"] = "Android"
+    caps["appium:automationName"] = "UiAutomator2"
+    caps["appium:deviceName"] = "697ea58c"
+    caps["appium:ensureWebviewsHavePages"] = True
+    caps["appium:nativeWebScreenshot"] = True
+    caps["appium:newCommandTimeout"] = 3600
+    caps["appium:connectHardwareKeyboard"] = True
+    caps["appium:noReset"] = no_reset
+    driver = webdriver.Remote("http://127.0.0.1:4723", caps)
+    return driver
+    
+    # desired_caps = dict()
+    # desired_caps['platformVersion'] = '11.0'
+    # desired_caps['appPackage'] = 'com.voyah.os.carlauncher'
+    # desired_caps['appActivity'] = 'com.voyah.os.carlauncher.second.LauncherActivityMainSecond'
 
 if __name__ == '__main__':
     init_driver()

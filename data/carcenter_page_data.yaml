@@ -1,0 +1,18 @@
+# 车辆设置
+test_carcenter_page:
+  test_itemtab_001:
+    xpath: "//*[contains(@text,'我的岚图')]"
+    titleText: "设置页 - 点击我的岚图"
+    stepInfo: "正在点击我的岚图按钮"
+    screen: "我的岚图"
+    assertText: "基础信息"
+    toastPass: "Pass,切换TAB页我的岚图,更新状态断言成功"
+    toastFail: "Fail,切换TAB页我的岚图,更新状态断言失败"
+  test_itemtab_002:
+    xpath: "//*[contains(@text,'车辆')]"
+    titleText: "设置页 - 点击车辆"
+    stepInfo: "正在点击车辆按钮"
+    screen: "点击车辆"
+    assertText: "中控锁",
+    toastPass: "Pass,切换TAB页车辆,更新状态断言成功"
+    toastFail: "Fail,切换TAB页车辆,更新状态断言失败"

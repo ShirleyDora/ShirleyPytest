@@ -3,13 +3,11 @@ import time
 from selenium.common.exceptions import TimeoutException, NoSuchElementException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
-<<<<<<< HEAD
-=======
 import allure
 from subprocess import Popen,PIPE,STDOUT
 import sys
->>>>>>> 3364439 (second commit)
-
+# import os,sys
+# sys.path.append(os.getcwd())
 
 class BaseAction:
 
@@ -184,8 +182,6 @@ class BaseAction:
             if time.time() > end_time:
                 return False
             time.sleep(poll)
-<<<<<<< HEAD
-=======
     # def get_screenshot_as_file(self):
     #     """
     #     截屏保存
@@ -195,12 +191,14 @@ class BaseAction:
     #     screent_path = os.path.join(SCREENSHOTDIR, pic_name)
     #     self.driver.get_screenshot_as_file(screent_path)
     #     return screent_pathe
+    def press_home_icon(self):
+        self.driver.press_keycode(3)
     def screen(self,s):
         if s is not None:
             allure.attach(self.driver.get_screenshot_as_png(), s, allure.attachment_type.PNG)
     def video(self,s):
         if s is not None:
-            allure.attach.file("***.mp4",name="{s}",attachment_type=allure.attachment_type.MP4,extension="mp4")
+            allure.attach.file("./result/{s}.mp4",name="{s}",attachment_type=allure.attachment_type.MP4,extension="mp4")
     # 调起cmd命令
     def run_cmd(self,cmd):
         p = Popen(self.cmd,shell=True,stdin=PIPE,stdout=PIPE,stderr=STDOUT)
@@ -266,4 +264,3 @@ class BaseAction:
 
 
 
->>>>>>> 3364439 (second commit)

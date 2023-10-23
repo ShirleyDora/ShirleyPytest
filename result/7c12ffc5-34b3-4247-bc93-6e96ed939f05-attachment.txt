@@ -1,0 +1,4 @@
+[32mINFO    [0m root:desktop_page.py:26 正在点击蓝牙电话图标
+[32mINFO    [0m root:test03_click_appicon.py:48 Fail,没有打开蓝牙电话应用,更新状态断言失败
+[32mINFO    [0m root:desktop_page.py:26 正在点击蓝牙电话图标
+[32mINFO    [0m root:test03_click_appicon.py:48 Fail,没有打开蓝牙电话应用,更新状态断言失败

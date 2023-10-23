@@ -1,0 +1,7 @@
+[32mINFO    [0m root:carcenter_page.py:37 正在点击我的岚图按钮
+[32mINFO    [0m root:carcenter_page.py:43 正在点击车辆按钮
+[32mINFO    [0m root:carcenter_page.py:49 正在点击灯光按钮
+[32mINFO    [0m root:carcenter_page.py:55 正在点击驾驶偏好
+[32mINFO    [0m root:carcenter_page.py:61 正在点击显示按钮
+[32mINFO    [0m root:carcenter_page.py:67 正在点击声音按钮
+[32mINFO    [0m root:test02_change_carcenter.py:39 切换车辆Tab栏，更新状态断言成功

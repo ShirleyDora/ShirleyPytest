@@ -1,0 +1,1 @@
+[32mINFO    [0m root:desktop_page.py:26 正在点击地图图标

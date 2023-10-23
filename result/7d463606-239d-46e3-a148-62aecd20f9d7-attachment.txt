@@ -1,0 +1,3 @@
+[32mINFO    [0m root:carcenter_page.py:25 正在点击设置按钮
+[32mINFO    [0m root:carcenter_page.py:31 正在获取车辆详情页面状态
+[32mINFO    [0m root:test01_carcenter.py:42 打开我的岚图，更新状态断言成功

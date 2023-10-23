@@ -1,0 +1,21 @@
+2023-10-09 11:23:41,965 INFO [root] [carcenter_page.py (click_carcenter:25] - 正在点击设置按钮
+2023-10-09 11:23:43,613 INFO [root] [carcenter_page.py (get_carcenter_txt:31] - 正在获取设置页面状态
+2023-10-09 11:23:44,704 INFO [root] [test01_carcenter.py (test_open_carcenter:59] - Pass,打开设置应用，更新状态断言成功
+2023-10-09 11:23:55,858 INFO [root] [carcenter_page.py (click_carenergy:37] - 正在点击我的岚图按钮
+2023-10-09 11:24:01,942 INFO [root] [carcenter_page.py (click_carexperience:43] - 正在点击车辆按钮
+2023-10-09 11:58:22,600 INFO [root] [carcenter_page.py (click_carcenter:25] - 正在点击设置按钮
+2023-10-09 11:58:23,966 INFO [root] [carcenter_page.py (get_carcenter_txt:31] - 正在获取设置页面状态
+2023-10-09 11:58:35,755 INFO [root] [carcenter_page.py (click_carcenter:25] - 正在点击设置按钮
+2023-10-09 11:58:42,015 INFO [root] [carcenter_page.py (get_carcenter_txt:31] - 正在获取设置页面状态
+2023-10-09 11:58:53,388 INFO [root] [carcenter_page.py (click_carcenter:25] - 正在点击设置按钮
+2023-10-09 11:59:02,479 INFO [root] [carcenter_page.py (get_carcenter_txt:31] - 正在获取设置页面状态
+2023-10-09 11:59:13,955 INFO [root] [carcenter_page.py (click_carcenter:25] - 正在点击设置按钮
+2023-10-09 11:59:55,222 INFO [root] [carcenter_page.py (click_carcenter:25] - 正在点击设置按钮
+2023-10-09 12:01:11,030 INFO [root] [test01_carcenter.py (test_open_carcenter:48] - 当前xpath为://*[contains(@text,'设置')],title为:设置页 - 点击设置,stepInfo为:正在点击设置按钮,screen:点击设置,assertText:我的岚图,toast:Pass,打开设置应用，更新状态断言成功
+2023-10-09 12:01:11,030 INFO [root] [carcenter_page.py (click_carcenter:25] - 正在点击设置按钮
+2023-10-09 12:01:13,052 INFO [root] [carcenter_page.py (get_carcenter_txt:31] - 正在获取设置页面状态
+2023-10-09 12:01:14,263 INFO [root] [test01_carcenter.py (test_open_carcenter:61] - Pass,打开设置应用，更新状态断言成功
+2023-10-09 12:03:24,956 INFO [root] [test01_carcenter.py (test_open_carcenter:48] - 当前xpath为://*[contains(@text,'设置')],title为:设置页 - 点击设置,stepInfo为:正在点击设置按钮,screen:点击设置,assertText:我的岚图,toast:Pass,打开设置应用，更新状态断言成功
+2023-10-09 12:03:24,958 INFO [root] [carcenter_page.py (click_carcenter:25] - 正在点击设置按钮
+2023-10-09 12:03:26,572 INFO [root] [carcenter_page.py (get_carcenter_txt:31] - 正在获取设置页面状态
+2023-10-09 12:03:27,490 INFO [root] [test01_carcenter.py (test_open_carcenter:61] - Pass,打开设置应用，更新状态断言成功

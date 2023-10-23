@@ -1,0 +1,2 @@
+[32mINFO    [0m root:desktop_page.py:26 正在点击游戏大厅图标
+[32mINFO    [0m root:desktop_page.py:26 正在点击游戏大厅图标

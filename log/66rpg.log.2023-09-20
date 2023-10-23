@@ -1,0 +1,105 @@
+2023-09-20 16:11:58,516 INFO [root] [carcenter_page.py (click_carcenter:25] - 正在点击设置按钮
+2023-09-20 16:12:00,141 INFO [root] [carcenter_page.py (get_carcenter_txt:31] - 正在获取车辆详情页面状态
+2023-09-20 16:12:01,374 INFO [root] [test01_carcenter.py (test_open_carcenter:42] - 打开我的岚图，更新状态断言成功
+2023-09-20 16:12:11,525 INFO [root] [carcenter_page.py (click_carenergy:37] - 正在点击能源管理按钮
+2023-09-20 16:12:17,815 INFO [root] [carcenter_page.py (click_carexperience:43] - 正在点击驾驶体验按钮
+2023-09-20 16:12:23,817 INFO [root] [carcenter_page.py (click_intelligent_drive:49] - 正在点击智能驾驶按钮
+2023-09-20 16:12:30,052 INFO [root] [carcenter_page.py (click_carbody:55] - 正在点击车身设置按钮
+2023-09-20 16:12:36,265 INFO [root] [carcenter_page.py (click_carsettings:61] - 正在点击通用设置按钮
+2023-09-20 16:12:42,377 INFO [root] [carcenter_page.py (click_carabout:67] - 正在点击关于本车按钮
+2023-09-20 16:12:48,560 INFO [root] [test02_change_carcenter.py (test_change_carcenter:39] - 切换车辆Tab栏，更新状态断言成功
+2023-09-20 16:30:56,705 INFO [root] [carcenter_page.py (click_carenergy:37] - 正在点击我的岚图按钮
+2023-09-20 16:31:38,940 INFO [root] [carcenter_page.py (click_carenergy:37] - 正在点击我的岚图按钮
+2023-09-20 16:32:20,706 INFO [root] [carcenter_page.py (click_carenergy:37] - 正在点击我的岚图按钮
+2023-09-20 16:38:49,886 INFO [root] [carcenter_page.py (click_carenergy:37] - 正在点击我的岚图按钮
+2023-09-20 16:38:56,130 INFO [root] [carcenter_page.py (click_carexperience:43] - 正在点击车辆按钮
+2023-09-20 16:39:02,098 INFO [root] [carcenter_page.py (click_intelligent_drive:49] - 正在点击灯光按钮
+2023-09-20 16:39:08,429 INFO [root] [carcenter_page.py (click_carbody:55] - 正在点击驾驶偏好
+2023-09-20 16:39:14,648 INFO [root] [carcenter_page.py (click_carsettings:61] - 正在点击显示按钮
+2023-09-20 16:39:20,471 INFO [root] [carcenter_page.py (click_carabout:67] - 正在点击声音按钮
+2023-09-20 16:39:26,288 INFO [root] [test02_change_carcenter.py (test_change_carcenter:39] - 切换车辆Tab栏，更新状态断言成功
+2023-09-20 16:41:37,282 INFO [root] [carcenter_page.py (click_carcenter:25] - 正在点击设置按钮
+2023-09-20 16:41:50,289 INFO [root] [carcenter_page.py (click_carcenter:25] - 正在点击设置按钮
+2023-09-20 16:41:51,689 INFO [root] [carcenter_page.py (get_carcenter_txt:31] - 正在获取设置页面状态
+2023-09-20 16:41:52,944 INFO [root] [test01_carcenter.py (test_open_carcenter:56] - 打开设置应用，更新状态断言成功
+2023-09-20 16:42:03,776 INFO [root] [carcenter_page.py (click_carenergy:37] - 正在点击我的岚图按钮
+2023-09-20 16:42:09,950 INFO [root] [carcenter_page.py (click_carexperience:43] - 正在点击车辆按钮
+2023-09-20 16:42:16,011 INFO [root] [carcenter_page.py (click_intelligent_drive:49] - 正在点击灯光按钮
+2023-09-20 16:42:22,253 INFO [root] [carcenter_page.py (click_carbody:55] - 正在点击驾驶偏好
+2023-09-20 16:42:28,517 INFO [root] [carcenter_page.py (click_carsettings:61] - 正在点击显示按钮
+2023-09-20 16:42:34,332 INFO [root] [carcenter_page.py (click_carabout:67] - 正在点击声音按钮
+2023-09-20 16:42:40,118 INFO [root] [test02_change_carcenter.py (test_change_carcenter:39] - 切换车辆Tab栏，更新状态断言成功
+2023-09-20 16:46:55,779 WARNING [urllib3.connectionpool] [connectionpool.py (urlopen:871] - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:997)'))': /session
+2023-09-20 16:46:55,791 WARNING [urllib3.connectionpool] [connectionpool.py (urlopen:871] - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:997)'))': /session
+2023-09-20 16:46:55,809 WARNING [urllib3.connectionpool] [connectionpool.py (urlopen:871] - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:997)'))': /session
+2023-09-20 16:46:56,369 WARNING [urllib3.connectionpool] [connectionpool.py (urlopen:871] - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:997)'))': /session
+2023-09-20 16:46:56,387 WARNING [urllib3.connectionpool] [connectionpool.py (urlopen:871] - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:997)'))': /session
+2023-09-20 16:46:56,405 WARNING [urllib3.connectionpool] [connectionpool.py (urlopen:871] - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:997)'))': /session
+2023-09-20 16:46:56,622 WARNING [urllib3.connectionpool] [connectionpool.py (urlopen:871] - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:997)'))': /session
+2023-09-20 16:46:56,633 WARNING [urllib3.connectionpool] [connectionpool.py (urlopen:871] - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:997)'))': /session
+2023-09-20 16:46:56,650 WARNING [urllib3.connectionpool] [connectionpool.py (urlopen:871] - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:997)'))': /session
+2023-09-20 16:46:56,895 WARNING [urllib3.connectionpool] [connectionpool.py (urlopen:871] - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:997)'))': /session
+2023-09-20 16:46:56,915 WARNING [urllib3.connectionpool] [connectionpool.py (urlopen:871] - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:997)'))': /session
+2023-09-20 16:46:56,931 WARNING [urllib3.connectionpool] [connectionpool.py (urlopen:871] - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:997)'))': /session
+2023-09-20 16:46:57,142 WARNING [urllib3.connectionpool] [connectionpool.py (urlopen:871] - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:997)'))': /session
+2023-09-20 16:46:57,159 WARNING [urllib3.connectionpool] [connectionpool.py (urlopen:871] - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:997)'))': /session
+2023-09-20 16:46:57,166 WARNING [urllib3.connectionpool] [connectionpool.py (urlopen:871] - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:997)'))': /session
+2023-09-20 16:46:57,419 WARNING [urllib3.connectionpool] [connectionpool.py (urlopen:871] - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:997)'))': /session
+2023-09-20 16:46:57,429 WARNING [urllib3.connectionpool] [connectionpool.py (urlopen:871] - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:997)'))': /session
+2023-09-20 16:46:57,453 WARNING [urllib3.connectionpool] [connectionpool.py (urlopen:871] - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:997)'))': /session
+2023-09-20 16:50:38,589 INFO [root] [carcenter_page.py (click_carcenter:25] - 正在点击设置按钮
+2023-09-20 16:50:40,474 INFO [root] [carcenter_page.py (get_carcenter_txt:31] - 正在获取设置页面状态
+2023-09-20 16:50:41,574 INFO [root] [test01_carcenter.py (test_open_carcenter:56] - 打开设置应用，更新状态断言成功
+2023-09-20 16:50:51,387 INFO [root] [carcenter_page.py (click_carenergy:37] - 正在点击我的岚图按钮
+2023-09-20 16:50:57,568 INFO [root] [carcenter_page.py (click_carexperience:43] - 正在点击车辆按钮
+2023-09-20 16:51:03,458 INFO [root] [carcenter_page.py (click_intelligent_drive:49] - 正在点击灯光按钮
+2023-09-20 16:51:09,616 INFO [root] [carcenter_page.py (click_carbody:55] - 正在点击驾驶偏好
+2023-09-20 16:51:15,826 INFO [root] [carcenter_page.py (click_carsettings:61] - 正在点击显示按钮
+2023-09-20 16:51:21,630 INFO [root] [carcenter_page.py (click_carabout:67] - 正在点击声音按钮
+2023-09-20 16:51:27,393 INFO [root] [test02_change_carcenter.py (test_change_carcenter:39] - 切换车辆Tab栏，更新状态断言成功
+2023-09-20 16:53:57,639 INFO [root] [carcenter_page.py (click_carcenter:25] - 正在点击设置按钮
+2023-09-20 16:53:58,772 INFO [root] [carcenter_page.py (get_carcenter_txt:31] - 正在获取设置页面状态
+2023-09-20 16:53:59,661 INFO [root] [test01_carcenter.py (test_open_carcenter:56] - 打开设置应用，更新状态断言成功
+2023-09-20 16:54:09,610 INFO [root] [carcenter_page.py (click_carenergy:37] - 正在点击我的岚图按钮
+2023-09-20 16:54:50,920 INFO [root] [carcenter_page.py (click_carenergy:37] - 正在点击我的岚图按钮
+2023-09-20 16:55:31,101 INFO [root] [carcenter_page.py (click_carenergy:37] - 正在点击我的岚图按钮
+2023-09-20 17:10:20,904 INFO [root] [carcenter_page.py (click_carcenter:25] - 正在点击设置按钮
+2023-09-20 17:10:22,689 INFO [root] [carcenter_page.py (get_carcenter_txt:31] - 正在获取设置页面状态
+2023-09-20 17:10:24,338 INFO [root] [test01_carcenter.py (test_open_carcenter:56] - 打开设置应用，更新状态断言成功
+2023-09-20 17:10:35,163 INFO [root] [carcenter_page.py (click_carenergy:37] - 正在点击我的岚图按钮
+2023-09-20 17:10:41,326 INFO [root] [carcenter_page.py (click_carexperience:43] - 正在点击车辆按钮
+2023-09-20 17:10:47,207 INFO [root] [carcenter_page.py (click_intelligent_drive:49] - 正在点击灯光按钮
+2023-09-20 17:10:53,365 INFO [root] [carcenter_page.py (click_carbody:55] - 正在点击驾驶偏好
+2023-09-20 17:10:59,525 INFO [root] [carcenter_page.py (click_carsettings:61] - 正在点击显示按钮
+2023-09-20 17:11:05,333 INFO [root] [carcenter_page.py (click_carabout:67] - 正在点击声音按钮
+2023-09-20 17:11:11,097 INFO [root] [test02_change_carcenter.py (test_change_carcenter:39] - 切换车辆Tab栏，更新状态断言成功
+2023-09-20 17:27:04,950 INFO [root] [carcenter_page.py (click_carcenter:25] - 正在点击设置按钮
+2023-09-20 17:27:06,262 INFO [root] [carcenter_page.py (get_carcenter_txt:31] - 正在获取设置页面状态
+2023-09-20 17:27:07,293 INFO [root] [test01_carcenter.py (test_open_carcenter:56] - 打开设置应用，更新状态断言成功
+2023-09-20 17:27:17,596 INFO [root] [carcenter_page.py (click_carenergy:37] - 正在点击我的岚图按钮
+2023-09-20 17:27:23,803 INFO [root] [carcenter_page.py (click_carexperience:43] - 正在点击车辆按钮
+2023-09-20 17:27:29,658 INFO [root] [carcenter_page.py (click_intelligent_drive:49] - 正在点击灯光按钮
+2023-09-20 17:27:35,776 INFO [root] [carcenter_page.py (click_carbody:55] - 正在点击驾驶偏好
+2023-09-20 17:27:41,974 INFO [root] [carcenter_page.py (click_carsettings:61] - 正在点击显示按钮
+2023-09-20 17:27:47,735 INFO [root] [carcenter_page.py (click_carabout:67] - 正在点击声音按钮
+2023-09-20 17:27:54,428 INFO [root] [test02_change_carcenter.py (test_change_carcenter:39] - 切换车辆Tab栏，更新状态断言成功
+2023-09-20 17:38:36,243 INFO [root] [carcenter_page.py (click_carcenter:25] - 正在点击设置按钮
+2023-09-20 17:38:37,704 INFO [root] [carcenter_page.py (get_carcenter_txt:31] - 正在获取设置页面状态
+2023-09-20 17:38:38,810 INFO [root] [test01_carcenter.py (test_open_carcenter:56] - 打开设置应用，更新状态断言成功
+2023-09-20 17:38:49,591 INFO [root] [carcenter_page.py (click_carenergy:37] - 正在点击我的岚图按钮
+2023-09-20 17:38:55,701 INFO [root] [carcenter_page.py (click_carexperience:43] - 正在点击车辆按钮
+2023-09-20 17:39:01,589 INFO [root] [carcenter_page.py (click_intelligent_drive:49] - 正在点击灯光按钮
+2023-09-20 17:39:07,725 INFO [root] [carcenter_page.py (click_carbody:55] - 正在点击驾驶偏好
+2023-09-20 17:39:13,887 INFO [root] [carcenter_page.py (click_carsettings:61] - 正在点击显示按钮
+2023-09-20 17:39:19,702 INFO [root] [carcenter_page.py (click_carabout:67] - 正在点击声音按钮
+2023-09-20 17:39:25,519 INFO [root] [test02_change_carcenter.py (test_change_carcenter:39] - 切换车辆Tab栏，更新状态断言成功
+2023-09-20 17:43:02,570 INFO [root] [carcenter_page.py (click_carcenter:25] - 正在点击设置按钮
+2023-09-20 17:43:04,230 INFO [root] [carcenter_page.py (get_carcenter_txt:31] - 正在获取设置页面状态
+2023-09-20 17:43:05,084 INFO [root] [test01_carcenter.py (test_open_carcenter:56] - 打开设置应用，更新状态断言成功
+2023-09-20 17:43:15,543 INFO [root] [carcenter_page.py (click_carenergy:37] - 正在点击我的岚图按钮
+2023-09-20 17:43:21,675 INFO [root] [carcenter_page.py (click_carexperience:43] - 正在点击车辆按钮
+2023-09-20 17:43:27,559 INFO [root] [carcenter_page.py (click_intelligent_drive:49] - 正在点击灯光按钮
+2023-09-20 17:43:33,747 INFO [root] [carcenter_page.py (click_carbody:55] - 正在点击驾驶偏好
+2023-09-20 17:43:39,898 INFO [root] [carcenter_page.py (click_carsettings:61] - 正在点击显示按钮
+2023-09-20 17:43:45,699 INFO [root] [carcenter_page.py (click_carabout:67] - 正在点击声音按钮
+2023-09-20 17:43:52,063 INFO [root] [test02_change_carcenter.py (test_change_carcenter:39] - 切换车辆Tab栏，更新状态断言成功

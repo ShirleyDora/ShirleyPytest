@@ -1,0 +1,1 @@
+{"uuid": "d7909d81-1517-4258-bf25-fb95a62debac", "children": ["d6934ba4-193e-47ab-90d6-413ab40afc9c"], "befores": [{"name": "_xunit_setup_method_fixture_TestCarcenter", "status": "passed", "start": 1698053620944, "stop": 1698053635165}], "afters": [{"name": "_xunit_setup_method_fixture_TestCarcenter::0", "start": 1698053640080}], "start": 1698053620944, "stop": 1698053641976}
