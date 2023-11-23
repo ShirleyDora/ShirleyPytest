@@ -28,3 +28,4 @@ class TestCarcenter:
     @allure.severity(allure.severity_level.BLOCKER)
     @pytest.mark.parametrize("args", analyze_data("desktop_page_data", "test_desktop_page"))
     def test_click_appicon(self,args):
+        self.page.carcenter.click_carcenter()

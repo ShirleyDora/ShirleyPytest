@@ -12,3 +12,10 @@
 2023-11-23 14:57:58,001 INFO [root] [carcenter_page.py (click_carsettings:82] - 正在点击显示按钮
 2023-11-23 14:58:03,725 INFO [root] [carcenter_page.py (click_carabout:88] - 正在点击声音按钮
 2023-11-23 14:58:09,416 INFO [root] [test02_change_carcenter.py (test_change_carcenter:41] - 切换车辆Tab栏，更新状态断言成功
+2023-11-23 14:59:21,917 INFO [root] [carcenter_page.py (click_carenergy:58] - 正在点击我的岚图按钮
+2023-11-23 14:59:28,079 INFO [root] [carcenter_page.py (click_carexperience:64] - 正在点击车辆按钮
+2023-11-23 14:59:34,041 INFO [root] [carcenter_page.py (click_intelligent_drive:70] - 正在点击灯光按钮
+2023-11-23 14:59:40,218 INFO [root] [carcenter_page.py (click_carbody:76] - 正在点击驾驶偏好
+2023-11-23 14:59:46,601 INFO [root] [carcenter_page.py (click_carsettings:82] - 正在点击显示按钮
+2023-11-23 14:59:52,307 INFO [root] [carcenter_page.py (click_carabout:88] - 正在点击声音按钮
+2023-11-23 14:59:57,978 INFO [root] [test02_change_carcenter.py (test_change_carcenter:41] - 切换车辆Tab栏，更新状态断言成功
