@@ -1,0 +1,1 @@
+[32mINFO    [0m root:carcenter_page.py:46 正在点击设置按钮

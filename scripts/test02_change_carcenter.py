@@ -31,15 +31,12 @@ class TestChangeCarcenter:
     # @pytest.mark.repeat(200) 
     def test_change_carcenter(self):  
         # for i in range(10000): 
-        self.page.carcenter.click_itemTab()
-        try:
-
-        log.info()
-        # self.page.carcenter.click_carenergy()       
-        # self.page.carcenter.click_carexperience()     
-        # self.page.carcenter.click_intelligent_drive()    
-        # self.page.carcenter.click_carbody()    
-        # self.page.carcenter.click_carsettings()  
-        # self.page.carcenter.click_carabout()
-        # log.info("切换车辆Tab栏，更新状态断言成功")
+        # self.page.carcenter.click_itemTab()
+        self.page.carcenter.click_carenergy()       
+        self.page.carcenter.click_carexperience()     
+        self.page.carcenter.click_intelligent_drive()    
+        self.page.carcenter.click_carbody()    
+        self.page.carcenter.click_carsettings()  
+        self.page.carcenter.click_carabout()
+        log.info("切换车辆Tab栏，更新状态断言成功")
 

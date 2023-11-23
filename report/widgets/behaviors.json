@@ -1,1 +1,1 @@
-{"total":9,"items":[{"uid":"5924aca611d4a40d0a51f9f793c1b6c3","name":"点击桌面上的图标","statistic":{"failed":4,"broken":10,"skipped":0,"passed":10,"unknown":0,"total":24}}]}
+{"total":10,"items":[{"uid":"5924aca611d4a40d0a51f9f793c1b6c3","name":"点击桌面上的图标","statistic":{"failed":4,"broken":4,"skipped":0,"passed":17,"unknown":0,"total":25}}]}

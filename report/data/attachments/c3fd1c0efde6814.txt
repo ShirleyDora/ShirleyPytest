@@ -1,0 +1,4 @@
+[32mINFO    [0m root:desktop_page.py:26 正在点击儿童座椅图标
+[32mINFO    [0m root:desktop_page.py:26 正在点击儿童座椅图标
+[32mINFO    [0m root:desktop_page.py:26 正在点击儿童座椅图标
+[32mINFO    [0m root:test03_click_appicon.py:44 Pass,已打开儿童座椅应用,更新状态断言成功

@@ -13,6 +13,7 @@ def init_driver(no_reset=True):
     caps["appium:newCommandTimeout"] = 3600
     caps["appium:connectHardwareKeyboard"] = True
     caps["appium:noReset"] = no_reset
+    caps["appium:skipServerInstallation"]= False
     driver = webdriver.Remote("http://127.0.0.1:4723", caps)
     return driver
     
