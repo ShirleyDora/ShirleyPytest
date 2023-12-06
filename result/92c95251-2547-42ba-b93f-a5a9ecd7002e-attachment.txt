@@ -1,4 +1,0 @@
-[32mINFO    [0m root:test01_carcenter.py:48 当前xpath为://*[contains(@text,'设置')],title为:设置页 - 点击设置,stepInfo为:正在点击设置按钮,screen:点击设置,assertText:我的岚图,toast:Pass,打开设置应用，更新状态断言成功
-[32mINFO    [0m root:carcenter_page.py:25 正在点击设置按钮
-[32mINFO    [0m root:carcenter_page.py:31 正在获取设置页面状态
-[32mINFO    [0m root:test01_carcenter.py:61 Pass,打开设置应用，更新状态断言成功

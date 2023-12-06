@@ -1,2 +1,0 @@
-[32mINFO    [0m root:desktop_page.py:26 正在点击蓝牙电话图标
-[32mINFO    [0m root:desktop_page.py:26 正在点击蓝牙电话图标

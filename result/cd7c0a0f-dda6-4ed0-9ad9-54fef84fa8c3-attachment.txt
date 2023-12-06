@@ -1,1 +1,0 @@
-[32mINFO    [0m root:desktop_page.py:26 正在点击本地音乐图标

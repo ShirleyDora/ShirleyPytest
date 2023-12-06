@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test-IVI-Music-01-01-01-007.py:60 Pass,预期结果1.切换USB音乐Tab栏成功

@@ -1,7 +1,0 @@
-INFO     root:carcenter_page.py:37 正在点击能源管理按钮
-INFO     root:carcenter_page.py:43 正在点击驾驶体验按钮
-INFO     root:carcenter_page.py:49 正在点击智能驾驶按钮
-INFO     root:carcenter_page.py:55 正在点击车身设置按钮
-INFO     root:carcenter_page.py:61 正在点击通用设置按钮
-INFO     root:carcenter_page.py:67 正在点击关于本车按钮
-INFO     root:test02_change_carcenter.py:39 切换车辆Tab栏，更新状态断言成功

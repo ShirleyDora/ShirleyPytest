@@ -1,4 +1,0 @@
-[32mINFO    [0m root:desktop_page.py:26 正在点击火山车娱图标
-[32mINFO    [0m root:test03_click_appicon.py:48 Fail,没有打开火山车娱应用,更新状态断言失败
-[32mINFO    [0m root:desktop_page.py:26 正在点击火山车娱图标
-[32mINFO    [0m root:test03_click_appicon.py:44 Pass,已打开火山车娱应用,更新状态断言成功

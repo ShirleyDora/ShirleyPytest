@@ -20,12 +20,17 @@ class TestCarcenter:
         self.page = Page(self.driver)
         self.base = BaseAction(self.driver)
         # 等待广告
-        time.sleep(5)     
+        # time.sleep(5)     
     def teardown_method(self):
-        time.sleep(5)  
+        # time.sleep(5)  
         self.driver.quit()
     
     @allure.severity(allure.severity_level.BLOCKER)
+    @allure.title("原始标题")
+    # 用例地址网址
+    @allure.testcase(name="测试用例地址",url="https://dfjira.voyah.cn/projects/H37/summary")
+    # 缺陷地址网址
+    @allure.issue(name="bug地址",url="https://dfjira.voyah.cn/issues/?filter=14971")
     @pytest.mark.parametrize("args", analyze_data("desktop_page_data", "test_desktop_page"))
     def test_click_appicon(self,args):
         # 解析数据
@@ -35,6 +40,8 @@ class TestCarcenter:
         toastFail = args["toastFail"]
         titleText = args["titleText"]
         screen = args["screen"]
+        # 测试用例名
+        allure.dynamic.title(f"{titleText}")
         with allure.step(f'步骤1：{titleText}'):  
             self.base.screen(f'{screen}前')
             self.page.desktop.click_desktopAppicon(args)
@@ -47,10 +54,10 @@ class TestCarcenter:
             except:
                 log.info(toastFail)
                 self.base.screen(f'{screen}后')
-                time.sleep(5)
+                time.sleep(2)
                 self.base.press_home_icon()
-                time.sleep(5)
-                assert self.page.desktop.is_toast_exist("Fail")
+                time.sleep(2)
+                assert False
                 
 
         

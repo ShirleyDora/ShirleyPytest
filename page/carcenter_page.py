@@ -29,13 +29,17 @@ log = GetLogger().get_logger()
     
 class CarcenterPage(BaseAction):
     carcenter = By.XPATH, "//*[contains(@text,'设置')]"
-    carenergy = By.XPATH, "//*[contains(@text,'我的岚图')]"
-    carexperience = By.XPATH, "//*[contains(@text,'车辆')]"
-    intelligent_drive = By.XPATH, "//*[contains(@text,'灯光')]"
-    carbody = By.XPATH, "//*[contains(@text,'驾驶偏好')]"
-    carsettings = By.XPATH, "//*[contains(@text,'显示')]"
-    carabout = By.XPATH, "//*[contains(@text,'声音')]"
-    
+    my_lantu = By.XPATH, "//*[contains(@text,'我的岚图')]"
+    vehicle = By.XPATH, "//*[contains(@text,'车辆')]"
+    lighting = By.XPATH, "//*[contains(@text,'灯光')]"
+    driving_preferences = By.XPATH, "//*[contains(@text,'驾驶偏好')]"
+    driving_assistant = By.XPATH, "//*[contains(@text,'驾驶辅助')]"
+    display = By.XPATH, "//*[contains(@text,'显示')]"
+    sound = By.XPATH, "//*[contains(@text,'声音')]"
+    connect = By.XPATH, "//*[contains(@text,'连接')]"
+    security = By.XPATH, "//*[contains(@text,'安全维护')]"
+    system = By.XPATH, "//*[contains(@text,'系统')]"
+
     @allure.step(title="appcenter页 - 向右滑动屏幕")
     def swipe_to_right(self):
         self.scroll_page_one_time("left")
@@ -54,38 +58,64 @@ class CarcenterPage(BaseAction):
         return self.get_feature_text(self.carenergy)
     # 左侧Tab栏
     # Tab栏-点击我的岚图
-    def click_carenergy(self):
+    def click_my_lantu(self):
         log.info("正在点击我的岚图按钮")
-        self.click(self.carenergy)
-        time.sleep(5)
+        self.click(self.my_lantu)
+        time.sleep(2)
         self.screen('点击我的岚图')
     # Tab栏-点击车辆
-    def click_carexperience(self):
+    def click_vehicle(self):
         log.info("正在点击车辆按钮")
-        self.click(self.carexperience)
-        time.sleep(5)
+        self.click(self.vehicle)
+        time.sleep(2)
         self.screen('点击车辆')
     # Tab栏-点击灯光
-    def click_intelligent_drive(self):
+    def click_lighting(self):
         log.info("正在点击灯光按钮")
-        self.click(self.intelligent_drive)
-        time.sleep(5)
+        self.click(self.lighting)
+        time.sleep(2)
         self.screen('点击灯光')
     # Tab栏-点击驾驶偏好
-    def click_carbody(self):
+    def click_driving_preferences(self):
         log.info("正在点击驾驶偏好")
-        self.click(self.carbody)
-        time.sleep(5)
+        self.click(self.driving_preferences)
+        time.sleep(2)
         self.screen('点击驾驶偏好')
+    # Tab栏-点击驾驶辅助
+    def click_driving_assistant(self):
+        log.info("正在点击驾驶辅助")
+        self.click(self.driving_assistant)
+        time.sleep(2)
+        self.screen('点击驾驶辅助')
     # Tab栏-点击显示
-    def click_carsettings(self):
+    def click_display(self):
         log.info("正在点击显示按钮")
-        self.click(self.carsettings)
-        time.sleep(5)
+        self.click(self.display)
+        time.sleep(2)
         self.screen('点击显示')
     # Tab栏-点击声音
-    def click_carabout(self):
+    def click_sound(self):
         log.info("正在点击声音按钮")
-        self.click(self.carabout)
-        time.sleep(5)
+        self.click(self.sound)
+        time.sleep(2)
         self.screen('点击声音')
+    # Tab栏-点击连接
+    def click_connect(self):
+        log.info("正在点击连接按钮")
+        self.click(self.connect)
+        time.sleep(2)
+        self.screen('点击连接')
+    # Tab栏-点击安全维护
+    def click_security(self):
+        log.info("正在点击安全维护按钮")
+        self.click(self.security)
+        time.sleep(2)
+        self.screen("点击安全维护")
+    # Tab栏-点击系统
+    def click_system(self):
+        log.info("正在点击系统按钮")
+        self.click(self.system)
+        time.sleep(2)
+        self.screen("点击系统")
+
+

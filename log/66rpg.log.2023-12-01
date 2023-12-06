@@ -1,0 +1,12 @@
+2023-12-01 16:12:09,555 INFO [root] [music_page.py (click_local_music_icon:14] - 正在点击桌面页的本地音乐图标
+2023-12-01 16:12:11,695 INFO [root] [test-IVI-Music-01-01-01-002.py (test_click_local_music:62] - Pass,预期结果1.打开本地音乐应用成功
+2023-12-01 16:12:42,377 INFO [root] [music_page.py (click_local_music_icon:14] - 正在点击桌面页的本地音乐图标
+2023-12-01 16:12:44,572 INFO [root] [test-IVI-Music-01-01-01-002.py (test_click_local_music:62] - Pass,预期结果1.打开本地音乐应用成功
+2023-12-01 16:14:48,712 INFO [root] [music_page.py (click_local_music_icon:14] - 正在点击桌面页的本地音乐图标
+2023-12-01 16:14:50,947 INFO [root] [test-IVI-Music-01-01-01-002.py (test_click_local_music:62] - Pass,预期结果1.打开本地音乐应用成功
+2023-12-01 16:27:26,886 INFO [root] [music_page.py (click_local_music_icon:14] - 正在点击桌面页的本地音乐图标
+2023-12-01 16:27:28,861 INFO [root] [test-IVI-Music-01-01-01-002.py (test_click_local_music:62] - Pass,预期结果1.打开本地音乐应用成功
+2023-12-01 16:32:07,508 INFO [root] [test-IVI-Music-01-01-01-007.py (test_change_tab_usb_music:60] - Pass,预期结果1.切换USB音乐Tab栏成功
+2023-12-01 16:32:39,825 INFO [root] [test-IVI-Music-01-01-01-007.py (test_change_tab_usb_music:60] - Pass,预期结果1.切换USB音乐Tab栏成功
+2023-12-01 16:34:28,534 INFO [root] [test-IVI-Music-01-01-01-007.py (test_change_tab_usb_music:60] - Pass,预期结果1.切换USB音乐Tab栏成功
+2023-12-01 16:34:45,453 INFO [root] [test-IVI-Music-01-01-01-007.py (test_change_tab_usb_music:60] - Pass,预期结果1.切换USB音乐Tab栏成功

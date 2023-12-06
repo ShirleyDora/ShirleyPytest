@@ -1,2 +1,0 @@
-[32mINFO    [0m root:carcenter_page.py:46 正在点击设置按钮
-[32mINFO    [0m root:carcenter_page.py:52 正在获取设置页面状态

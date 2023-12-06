@@ -1,4 +1,0 @@
-[32mINFO    [0m root:desktop_page.py:26 正在点击日程图标
-[32mINFO    [0m root:desktop_page.py:26 正在点击日程图标
-[32mINFO    [0m root:desktop_page.py:26 正在点击日程图标
-[32mINFO    [0m root:test03_click_appicon.py:44 Pass,已打开日程应用,更新状态断言成功

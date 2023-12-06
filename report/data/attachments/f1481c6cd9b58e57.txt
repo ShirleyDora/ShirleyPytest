@@ -1,0 +1,2 @@
+[32mINFO    [0m root:music_page.py:14 正在点击桌面页的本地音乐图标
+[32mINFO    [0m root:test-IVI-Music-01-01-01-002.py:62 Pass,预期结果1.打开本地音乐应用成功

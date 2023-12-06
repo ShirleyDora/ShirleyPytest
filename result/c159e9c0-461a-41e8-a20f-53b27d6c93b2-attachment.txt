@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test-IVI-Music-01-03-01-003.py:63 00:09,00:13
+[32mINFO    [0m root:test-IVI-Music-01-03-01-003.py:66 Pass,预期结果1.已点击播放蓝牙音乐成功，正在播放蓝牙音乐

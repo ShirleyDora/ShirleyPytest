@@ -1,35 +1,91 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"skipped","Mon Oct 23 17:01:01 CST 2023","Mon Oct 23 17:01:01 CST 2023","0","","","","","","test_click_appicon[args0]",""
-"passed","Mon Nov 13 14:53:06 CST 2023","Mon Nov 13 14:53:11 CST 2023","5292","scripts","test03_click_appicon","TestCarcenter","","","test_click_appicon[args22]",""
-"passed","Mon Nov 13 14:38:45 CST 2023","Mon Nov 13 14:38:49 CST 2023","4309","scripts","test03_click_appicon","TestCarcenter","","","test_click_appicon[args10]",""
-"passed","Mon Oct 23 17:33:55 CST 2023","Mon Oct 23 17:33:59 CST 2023","4088","","","","","","test_click_appicon[args5]",""
-"passed","Mon Nov 13 14:39:05 CST 2023","Mon Nov 13 14:39:11 CST 2023","5983","scripts","test03_click_appicon","TestCarcenter","","","test_click_appicon[args11]",""
-"passed","Mon Nov 13 14:38:24 CST 2023","Mon Nov 13 14:38:29 CST 2023","4225","scripts","test03_click_appicon","TestCarcenter","","","test_click_appicon[args9]",""
-"broken","Mon Nov 13 14:47:03 CST 2023","Mon Nov 13 14:47:34 CST 2023","31401","scripts","test03_click_appicon","TestCarcenter","","","test_click_appicon[args15]",""
-"passed","Wed Nov 22 14:24:08 CST 2023","Wed Nov 22 14:24:12 CST 2023","3898","scripts","test03_click_appicon","TestCarcenter","","","test_click_appicon[args3]",""
-"broken","Mon Oct 23 17:59:28 CST 2023","Mon Oct 23 17:59:59 CST 2023","31715","scripts","test03_click_appicon","TestCarcenter","","","test_click_appicon[args14]",""
-"passed","Mon Oct 09 12:03:24 CST 2023","Mon Oct 09 12:03:27 CST 2023","2534","scripts","test01_carcenter","TestCarcenter","","","test_open_carcenter[args0]",""
-"passed","Mon Nov 13 14:40:16 CST 2023","Mon Nov 13 14:40:19 CST 2023","2890","scripts","test03_click_appicon","TestCarcenter","","","test_click_appicon[args12]",""
-"passed","Mon Nov 13 14:52:19 CST 2023","Mon Nov 13 14:52:49 CST 2023","29481","scripts","test03_click_appicon","TestCarcenter","","","test_click_appicon[args21]",""
-"passed","Mon Nov 13 14:53:28 CST 2023","Mon Nov 13 14:53:34 CST 2023","5624","scripts","test03_click_appicon","TestCarcenter","","","test_click_appicon[args23]",""
-"passed","Mon Nov 13 14:48:39 CST 2023","Mon Nov 13 14:48:51 CST 2023","11570","scripts","test03_click_appicon","TestCarcenter","","","test_click_appicon[args16]",""
-"failed","Wed Nov 22 14:26:02 CST 2023","Wed Nov 22 14:26:34 CST 2023","32499","scripts","test03_click_appicon","TestCarcenter","","","test_click_appicon[args4]",""
-"passed","Wed Nov 22 14:23:32 CST 2023","Wed Nov 22 14:23:35 CST 2023","3319","scripts","test03_click_appicon","TestCarcenter","","","test_click_appicon[args1]",""
-"failed","Mon Nov 13 14:33:54 CST 2023","Mon Nov 13 14:34:27 CST 2023","33122","scripts","test03_click_appicon","TestCarcenter","","","test_click_appicon[args6]",""
-"passed","Mon Nov 13 14:50:22 CST 2023","Mon Nov 13 14:50:26 CST 2023","3752","scripts","test03_click_appicon","TestCarcenter","","","test_click_appicon[args20]",""
-"passed","Mon Nov 13 14:35:32 CST 2023","Mon Nov 13 14:35:41 CST 2023","9436","scripts","test03_click_appicon","TestCarcenter","","","test_click_appicon[args7]",""
-"passed","Mon Nov 13 14:49:59 CST 2023","Mon Nov 13 14:50:06 CST 2023","6894","scripts","test03_click_appicon","TestCarcenter","","","test_click_appicon[args19]",""
-"skipped","Mon Oct 23 17:29:06 CST 2023","Mon Oct 23 17:29:06 CST 2023","0","","","","","","test_click_appicon[args5]",""
-"broken","Mon Nov 13 14:44:37 CST 2023","Mon Nov 13 14:45:10 CST 2023","32332","scripts","test03_click_appicon","TestCarcenter","","","test_click_appicon[args14]",""
-"passed","Wed Nov 22 14:23:12 CST 2023","Wed Nov 22 14:23:16 CST 2023","3898","scripts","test03_click_appicon","TestCarcenter","","","test_click_appicon[args0]",""
-"broken","Mon Oct 09 12:04:32 CST 2023","Mon Oct 09 12:04:32 CST 2023","0","scripts","test01_carcenter","TestCarcenter","","","test_open_carcenter[args2]",""
-"broken","Mon Oct 09 12:04:00 CST 2023","Mon Oct 09 12:04:00 CST 2023","0","scripts","test01_carcenter","TestCarcenter","","","test_open_carcenter[args1]",""
-"passed","Wed Nov 22 14:37:48 CST 2023","Wed Nov 22 14:37:51 CST 2023","3136","scripts","test01_carcenter","TestCarcenter","","","test_open_carcenter",""
-"skipped","Mon Nov 13 10:15:06 CST 2023","Mon Nov 13 10:15:06 CST 2023","0","","","","","","test_change_carcenter",""
-"passed","Wed Nov 22 14:23:50 CST 2023","Wed Nov 22 14:23:53 CST 2023","3225","scripts","test03_click_appicon","TestCarcenter","","","test_click_appicon[args2]",""
-"failed","Mon Nov 13 14:37:35 CST 2023","Mon Nov 13 14:38:08 CST 2023","33223","scripts","test03_click_appicon","TestCarcenter","","","test_click_appicon[args8]",""
-"failed","Wed Nov 22 14:28:26 CST 2023","Wed Nov 22 14:28:58 CST 2023","32471","scripts","test03_click_appicon","TestCarcenter","","","test_click_appicon[args5]",""
-"passed","Mon Nov 13 14:49:07 CST 2023","Mon Nov 13 14:49:22 CST 2023","14955","scripts","test03_click_appicon","TestCarcenter","","","test_click_appicon[args17]",""
-"passed","Mon Nov 13 14:49:39 CST 2023","Mon Nov 13 14:49:42 CST 2023","3687","scripts","test03_click_appicon","TestCarcenter","","","test_click_appicon[args18]",""
-"passed","Thu Nov 23 14:59:21 CST 2023","Thu Nov 23 14:59:57 CST 2023","36061","scripts","test02_change_carcenter","TestChangeCarcenter","","","test_change_carcenter",""
-"broken","Mon Nov 13 14:42:13 CST 2023","Mon Nov 13 14:42:45 CST 2023","31685","scripts","test03_click_appicon","TestCarcenter","","","test_click_appicon[args13]",""
+"passed","Wed Dec 06 16:17:40 CST 2023","Wed Dec 06 16:17:43 CST 2023","3153","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击智能助手",""
+"passed","Wed Dec 06 16:17:11 CST 2023","Wed Dec 06 16:17:15 CST 2023","3776","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击个人中心",""
+"passed","Wed Dec 06 16:15:33 CST 2023","Wed Dec 06 16:15:39 CST 2023","5374","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击火山车娱",""
+"passed","Wed Dec 06 16:17:49 CST 2023","Wed Dec 06 16:17:52 CST 2023","3543","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击岚图商城",""
+"passed","Wed Dec 06 16:15:15 CST 2023","Wed Dec 06 16:15:19 CST 2023","3642","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击设置",""
+"passed","Wed Dec 06 16:15:54 CST 2023","Wed Dec 06 16:15:58 CST 2023","4689","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击天气",""
+"passed","Wed Dec 06 16:14:06 CST 2023","Wed Dec 06 16:14:09 CST 2023","2394","scripts","test-IVI-Setting-01-01-01-001","TestCarcenter","","","test_click_settings",""
+"passed","Wed Dec 06 16:13:21 CST 2023","Wed Dec 06 16:13:28 CST 2023","7559","scripts","test-IVI-Music-01-03-01-004","TestCarcenter","","","点击蓝牙音乐的暂停按钮，暂停蓝牙音乐","前置条件：
+                                   1.车机上电，中控屏处于开启状态
+                                   2.车机系统初始状态
+                                   测试步骤：
+                                   1.从桌面页点击打开本地音乐应用 
+                                   2.点击蓝牙音乐的暂停按钮 
+                                   预期结果：
+                                   1.可以正常打开本地音乐，本地音乐界面显示正常 
+                                   2.可以暂停蓝牙音乐
+                                   "
+"passed","Wed Dec 06 16:15:06 CST 2023","Wed Dec 06 16:15:10 CST 2023","4140","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击蓝牙电话",""
+"passed","Wed Dec 06 16:12:37 CST 2023","Wed Dec 06 16:12:42 CST 2023","4271","scripts","test-IVI-Music-01-01-01-002","TestCarcenter","","","中控屏开启：进入APP ALL点击本地音乐：进入蓝牙音乐","前置条件：
+                                   1.Usage Mode = Convenient/Driving
+                                   2.中控屏开启
+                                   3.本地音乐当前显示蓝牙音乐
+                                   测试步骤:
+                                   1.打开APP ALL，点击本地音乐应用
+                                   预期结果
+                                   1.进入蓝牙音乐
+                                   "
+"passed","Wed Dec 06 16:16:34 CST 2023","Wed Dec 06 16:16:38 CST 2023","4016","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击酷玩盒子",""
+"passed","Wed Dec 06 16:17:02 CST 2023","Wed Dec 06 16:17:05 CST 2023","3549","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击地图",""
+"passed","Wed Dec 06 16:15:44 CST 2023","Wed Dec 06 16:15:48 CST 2023","3625","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击雷石KTV",""
+"passed","Wed Dec 06 16:16:04 CST 2023","Wed Dec 06 16:16:10 CST 2023","5622","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击微场景",""
+"passed","Wed Dec 06 16:16:24 CST 2023","Wed Dec 06 16:16:28 CST 2023","4534","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击微信",""
+"passed","Wed Dec 06 16:12:47 CST 2023","Wed Dec 06 16:12:51 CST 2023","3490","scripts","test-IVI-Music-01-01-01-007","TestCarcenter","","","本地音乐当前显示蓝牙音乐；点击切换到USB音乐；显示USB音乐","前置条件:
+                                   1.车机上电，中控屏处于开启状态
+                                   2.车机系统初始状态 
+                                   测试步骤:
+                                   1.从桌面页点击打开本地音乐应用 
+                                   2.点击切换Tab栏USB音乐 
+                                   预期结果：
+                                   1.可以正常打开本地音乐，本地音乐界面显示正常 
+                                   2.可以切换USB音乐Tab栏 
+                                   "
+"passed","Wed Dec 06 16:13:05 CST 2023","Wed Dec 06 16:13:15 CST 2023","9889","scripts","test-IVI-Music-01-03-01-003","TestCarcenter","","","点击蓝牙音乐的播放按钮，播放蓝牙音乐","前置条件：
+                                   1.车机上电，中控屏处于开启状态
+                                   2.车机系统初始状态
+                                   测试步骤：
+                                   1.从桌面页点击打开本地音乐应用 
+                                   2.点击蓝牙音乐的播放按钮 
+                                   预期结果：
+                                   1.可以正常打开本地音乐，本地音乐界面显示正常 
+                                   2.可以播放蓝牙音乐
+                                   "
+"passed","Wed Dec 06 16:13:48 CST 2023","Wed Dec 06 16:14:00 CST 2023","12335","scripts","test-IVI-Music-01-03-01-007","TestCarcenter","","","点击蓝牙音乐的切换下一首按钮，切换下一首蓝牙音乐","前置条件：
+                                   1.车机上电，中控屏处于开启状态
+                                   2.车机系统初始状态
+                                   测试步骤：
+                                   1.从桌面页点击打开本地音乐应用 
+                                   2.点击蓝牙音乐的切换下一首按钮
+                                   预期结果：
+                                   1.可以正常打开本地音乐，本地音乐界面显示正常 
+                                   2.可以切换下一首蓝牙音乐
+                                   "
+"passed","Wed Dec 06 16:14:14 CST 2023","Wed Dec 06 16:14:47 CST 2023","33063","scripts","test02_change_carcenter","TestChangeCarcenter","","","test_change_carcenter",""
+"passed","Wed Dec 06 16:16:15 CST 2023","Wed Dec 06 16:16:18 CST 2023","2644","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击游戏大厅",""
+"passed","Wed Dec 06 16:13:34 CST 2023","Wed Dec 06 16:13:42 CST 2023","8306","scripts","test-IVI-Music-01-03-01-005","TestCarcenter","","","点击蓝牙音乐的切换上一首按钮，切换上一首蓝牙音乐","前置条件：
+                                   1.车机上电，中控屏处于开启状态
+                                   2.车机系统初始状态
+                                   测试步骤：
+                                   1.从桌面页点击打开本地音乐应用 
+                                   2.点击蓝牙音乐的切换上一首按钮
+                                   预期结果：
+                                   1.可以正常打开本地音乐，本地音乐界面显示正常 
+                                   2.可以切换上一首蓝牙音乐
+                                   "
+"passed","Wed Dec 06 16:16:53 CST 2023","Wed Dec 06 16:16:56 CST 2023","3180","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击本地视频",""
+"passed","Wed Dec 06 16:17:31 CST 2023","Wed Dec 06 16:17:34 CST 2023","3893","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击泊车辅助",""
+"passed","Wed Dec 06 16:15:24 CST 2023","Wed Dec 06 16:15:28 CST 2023","3441","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击情景模式",""
+"passed","Wed Dec 06 16:16:43 CST 2023","Wed Dec 06 16:16:47 CST 2023","4239","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击工程模式",""
+"passed","Wed Dec 06 16:14:53 CST 2023","Wed Dec 06 16:14:59 CST 2023","5487","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击本地音乐",""
+"passed","Wed Dec 06 16:12:56 CST 2023","Wed Dec 06 16:12:59 CST 2023","3192","scripts","test-IVI-Music-01-01-01-010","TestCarcenter","","","切换本地音乐应用的Tab栏，切换到蓝牙音乐","前置条件：
+                                   1.车机上电，中控屏处于开启状态
+                                   2.车机系统初始状态
+                                   测试步骤：
+                                   1.从桌面页点击打开本地音乐应用 
+                                   2.点击切换Tab栏蓝牙音乐 
+                                   预期结果：
+                                   1.可以正常打开本地音乐，本地音乐界面显示正常 
+                                   2.可以切换蓝牙音乐Tab栏 
+                                   "
+"passed","Wed Dec 06 16:17:20 CST 2023","Wed Dec 06 16:17:25 CST 2023","4315","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击日程",""

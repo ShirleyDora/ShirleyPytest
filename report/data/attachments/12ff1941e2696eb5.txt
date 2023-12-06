@@ -1,5 +1,0 @@
-[32mINFO    [0m root:desktop_page.py:26 正在点击云听图标
-[32mINFO    [0m root:test03_click_appicon.py:48 Fail,没有打开云听应用,更新状态断言失败
-[32mINFO    [0m root:desktop_page.py:26 正在点击云听图标
-[32mINFO    [0m root:test03_click_appicon.py:48 Fail,没有打开云听应用,更新状态断言失败
-[32mINFO    [0m root:desktop_page.py:26 正在点击云听图标

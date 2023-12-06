@@ -15,8 +15,9 @@ def analyze_data(file_name, key):
         data_list = list()
         data_list.extend(yaml.safe_load(f)[key].values())
         return data_list
-settings_yaml_path="D:\\settings.yaml"
+
 def settings_read_yaml(n,k):
+    settings_yaml_path="./data/config.yaml"
     # 打开文件
     with open(settings_yaml_path,"r",encoding="utf-8") as f:
         data=yaml.load(f,Loader=yaml.FullLoader)
