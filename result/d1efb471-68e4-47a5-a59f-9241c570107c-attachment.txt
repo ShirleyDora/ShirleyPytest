@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test-IVI-Music-01-03-01-005.py:60 Pass,预期结果1.已切换上一首蓝牙音乐

@@ -1,0 +1,2 @@
+[32mINFO    [0m root:desktop_page.py:26 正在点击设置图标
+[32mINFO    [0m root:test03_click_appicon.py:51 Pass,已打开设置应用,更新状态断言成功

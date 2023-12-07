@@ -1,0 +1,1 @@
+[32mINFO    [0m root:carcenter_page.py:74 正在点击灯光按钮

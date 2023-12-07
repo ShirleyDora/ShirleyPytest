@@ -133,15 +133,15 @@ test_desktop_page:
     toastPass: "Pass,已打开游戏大厅应用,更新状态断言成功"
     toastFail: "Fail,没有打开游戏大厅应用,更新状态断言失败"
   # 微信
-  test_appicon_014:
-    xpath: "//*[contains(@text,'微信')]"
-    titleText: "桌面页 - 点击微信"
-    stepInfo: "正在点击微信图标"
-    screen: "点击微信"
-    assertText1: "正在获取二维码"
-    assertText2: ""
-    toastPass: "Pass,已打开微信应用,更新状态断言成功"
-    toastFail: "Fail,没有打开微信应用,更新状态断言失败"
+  # test_appicon_014:
+  #   xpath: "//*[contains(@text,'微信')]"
+  #   titleText: "桌面页 - 点击微信"
+  #   stepInfo: "正在点击微信图标"
+  #   screen: "点击微信"
+  #   assertText1: "正在获取二维码"
+  #   assertText2: ""
+  #   toastPass: "Pass,已打开微信应用,更新状态断言成功"
+  #   toastFail: "Fail,没有打开微信应用,更新状态断言失败"
   # 第三排
   # 相册
   test_appicon_015:

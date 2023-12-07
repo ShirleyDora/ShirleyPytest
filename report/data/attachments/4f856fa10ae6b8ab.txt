@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test-IVI-Music-01-03-01-004.py:64 01:51,01:51
+[32mINFO    [0m root:test-IVI-Music-01-03-01-004.py:67 Pass,预期结果1.已暂停蓝牙音乐播放

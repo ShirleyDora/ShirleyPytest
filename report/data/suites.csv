@@ -1,57 +1,11 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Wed Dec 06 16:17:40 CST 2023","Wed Dec 06 16:17:43 CST 2023","3153","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击智能助手",""
-"passed","Wed Dec 06 16:17:11 CST 2023","Wed Dec 06 16:17:15 CST 2023","3776","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击个人中心",""
-"passed","Wed Dec 06 16:15:33 CST 2023","Wed Dec 06 16:15:39 CST 2023","5374","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击火山车娱",""
-"passed","Wed Dec 06 16:17:49 CST 2023","Wed Dec 06 16:17:52 CST 2023","3543","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击岚图商城",""
-"passed","Wed Dec 06 16:15:15 CST 2023","Wed Dec 06 16:15:19 CST 2023","3642","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击设置",""
-"passed","Wed Dec 06 16:15:54 CST 2023","Wed Dec 06 16:15:58 CST 2023","4689","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击天气",""
-"passed","Wed Dec 06 16:14:06 CST 2023","Wed Dec 06 16:14:09 CST 2023","2394","scripts","test-IVI-Setting-01-01-01-001","TestCarcenter","","","test_click_settings",""
-"passed","Wed Dec 06 16:13:21 CST 2023","Wed Dec 06 16:13:28 CST 2023","7559","scripts","test-IVI-Music-01-03-01-004","TestCarcenter","","","点击蓝牙音乐的暂停按钮，暂停蓝牙音乐","前置条件：
-                                   1.车机上电，中控屏处于开启状态
-                                   2.车机系统初始状态
-                                   测试步骤：
-                                   1.从桌面页点击打开本地音乐应用 
-                                   2.点击蓝牙音乐的暂停按钮 
-                                   预期结果：
-                                   1.可以正常打开本地音乐，本地音乐界面显示正常 
-                                   2.可以暂停蓝牙音乐
-                                   "
-"passed","Wed Dec 06 16:15:06 CST 2023","Wed Dec 06 16:15:10 CST 2023","4140","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击蓝牙电话",""
-"passed","Wed Dec 06 16:12:37 CST 2023","Wed Dec 06 16:12:42 CST 2023","4271","scripts","test-IVI-Music-01-01-01-002","TestCarcenter","","","中控屏开启：进入APP ALL点击本地音乐：进入蓝牙音乐","前置条件：
-                                   1.Usage Mode = Convenient/Driving
-                                   2.中控屏开启
-                                   3.本地音乐当前显示蓝牙音乐
-                                   测试步骤:
-                                   1.打开APP ALL，点击本地音乐应用
-                                   预期结果
-                                   1.进入蓝牙音乐
-                                   "
-"passed","Wed Dec 06 16:16:34 CST 2023","Wed Dec 06 16:16:38 CST 2023","4016","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击酷玩盒子",""
-"passed","Wed Dec 06 16:17:02 CST 2023","Wed Dec 06 16:17:05 CST 2023","3549","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击地图",""
-"passed","Wed Dec 06 16:15:44 CST 2023","Wed Dec 06 16:15:48 CST 2023","3625","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击雷石KTV",""
-"passed","Wed Dec 06 16:16:04 CST 2023","Wed Dec 06 16:16:10 CST 2023","5622","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击微场景",""
-"passed","Wed Dec 06 16:16:24 CST 2023","Wed Dec 06 16:16:28 CST 2023","4534","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击微信",""
-"passed","Wed Dec 06 16:12:47 CST 2023","Wed Dec 06 16:12:51 CST 2023","3490","scripts","test-IVI-Music-01-01-01-007","TestCarcenter","","","本地音乐当前显示蓝牙音乐；点击切换到USB音乐；显示USB音乐","前置条件:
-                                   1.车机上电，中控屏处于开启状态
-                                   2.车机系统初始状态 
-                                   测试步骤:
-                                   1.从桌面页点击打开本地音乐应用 
-                                   2.点击切换Tab栏USB音乐 
-                                   预期结果：
-                                   1.可以正常打开本地音乐，本地音乐界面显示正常 
-                                   2.可以切换USB音乐Tab栏 
-                                   "
-"passed","Wed Dec 06 16:13:05 CST 2023","Wed Dec 06 16:13:15 CST 2023","9889","scripts","test-IVI-Music-01-03-01-003","TestCarcenter","","","点击蓝牙音乐的播放按钮，播放蓝牙音乐","前置条件：
-                                   1.车机上电，中控屏处于开启状态
-                                   2.车机系统初始状态
-                                   测试步骤：
-                                   1.从桌面页点击打开本地音乐应用 
-                                   2.点击蓝牙音乐的播放按钮 
-                                   预期结果：
-                                   1.可以正常打开本地音乐，本地音乐界面显示正常 
-                                   2.可以播放蓝牙音乐
-                                   "
-"passed","Wed Dec 06 16:13:48 CST 2023","Wed Dec 06 16:14:00 CST 2023","12335","scripts","test-IVI-Music-01-03-01-007","TestCarcenter","","","点击蓝牙音乐的切换下一首按钮，切换下一首蓝牙音乐","前置条件：
+"passed","Thu Dec 07 11:23:47 CST 2023","Thu Dec 07 11:23:50 CST 2023","3337","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击个人中心",""
+"passed","Thu Dec 07 11:19:04 CST 2023","Thu Dec 07 11:19:09 CST 2023","4687","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击本地音乐",""
+"passed","Thu Dec 07 11:19:34 CST 2023","Thu Dec 07 11:19:39 CST 2023","4309","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击情景模式",""
+"passed","Thu Dec 07 11:23:11 CST 2023","Thu Dec 07 11:23:15 CST 2023","3988","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击酷玩盒子",""
+"passed","Thu Dec 07 11:17:54 CST 2023","Thu Dec 07 11:17:57 CST 2023","2078","scripts","test01_click_light","TestChangeCarcenter","","","切换氛围灯",""
+"passed","Thu Dec 07 11:19:15 CST 2023","Thu Dec 07 11:19:19 CST 2023","4256","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击蓝牙电话",""
+"passed","Thu Dec 07 11:17:22 CST 2023","Thu Dec 07 11:17:30 CST 2023","8698","scripts","test-IVI-Music-01-03-01-007","TestCarcenter","","","点击蓝牙音乐的切换下一首按钮，切换下一首蓝牙音乐","前置条件：
                                    1.车机上电，中控屏处于开启状态
                                    2.车机系统初始状态
                                    测试步骤：
@@ -61,9 +15,51 @@
                                    1.可以正常打开本地音乐，本地音乐界面显示正常 
                                    2.可以切换下一首蓝牙音乐
                                    "
-"passed","Wed Dec 06 16:14:14 CST 2023","Wed Dec 06 16:14:47 CST 2023","33063","scripts","test02_change_carcenter","TestChangeCarcenter","","","test_change_carcenter",""
-"passed","Wed Dec 06 16:16:15 CST 2023","Wed Dec 06 16:16:18 CST 2023","2644","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击游戏大厅",""
-"passed","Wed Dec 06 16:13:34 CST 2023","Wed Dec 06 16:13:42 CST 2023","8306","scripts","test-IVI-Music-01-03-01-005","TestCarcenter","","","点击蓝牙音乐的切换上一首按钮，切换上一首蓝牙音乐","前置条件：
+"passed","Thu Dec 07 11:19:44 CST 2023","Thu Dec 07 11:19:49 CST 2023","4672","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击火山车娱",""
+"passed","Thu Dec 07 11:24:14 CST 2023","Thu Dec 07 11:24:18 CST 2023","4239","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击智能助手",""
+"passed","Thu Dec 07 11:16:55 CST 2023","Thu Dec 07 11:17:02 CST 2023","7445","scripts","test-IVI-Music-01-03-01-004","TestCarcenter","","","点击蓝牙音乐的暂停按钮，暂停蓝牙音乐","前置条件：
+                                   1.车机上电，中控屏处于开启状态
+                                   2.车机系统初始状态
+                                   测试步骤：
+                                   1.从桌面页点击打开本地音乐应用 
+                                   2.点击蓝牙音乐的暂停按钮 
+                                   预期结果：
+                                   1.可以正常打开本地音乐，本地音乐界面显示正常 
+                                   2.可以暂停蓝牙音乐
+                                   "
+"passed","Thu Dec 07 11:16:40 CST 2023","Thu Dec 07 11:16:49 CST 2023","8526","scripts","test-IVI-Music-01-03-01-003","TestCarcenter","","","点击蓝牙音乐的播放按钮，播放蓝牙音乐","前置条件：
+                                   1.车机上电，中控屏处于开启状态
+                                   2.车机系统初始状态
+                                   测试步骤：
+                                   1.从桌面页点击打开本地音乐应用 
+                                   2.点击蓝牙音乐的播放按钮 
+                                   预期结果：
+                                   1.可以正常打开本地音乐，本地音乐界面显示正常 
+                                   2.可以播放蓝牙音乐
+                                   "
+"passed","Thu Dec 07 11:16:10 CST 2023","Thu Dec 07 11:16:16 CST 2023","5316","scripts","test-IVI-Music-01-01-01-002","TestCarcenter","","","中控屏开启：进入APP ALL点击本地音乐：进入蓝牙音乐","前置条件：
+                                   1.Usage Mode = Convenient/Driving
+                                   2.中控屏开启
+                                   3.本地音乐当前显示蓝牙音乐
+                                   测试步骤:
+                                   1.打开APP ALL，点击本地音乐应用
+                                   预期结果
+                                   1.进入蓝牙音乐
+                                   "
+"passed","Thu Dec 07 11:20:28 CST 2023","Thu Dec 07 11:20:40 CST 2023","12635","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击游戏大厅",""
+"passed","Thu Dec 07 11:18:24 CST 2023","Thu Dec 07 11:18:58 CST 2023","34517","scripts","test02_change_carcenter","TestChangeCarcenter","","","test_change_carcenter",""
+"passed","Thu Dec 07 11:16:23 CST 2023","Thu Dec 07 11:16:26 CST 2023","3154","scripts","test-IVI-Music-01-01-01-007","TestCarcenter","","","本地音乐当前显示蓝牙音乐；点击切换到USB音乐；显示USB音乐","前置条件:
+                                   1.车机上电，中控屏处于开启状态
+                                   2.车机系统初始状态 
+                                   测试步骤:
+                                   1.从桌面页点击打开本地音乐应用 
+                                   2.点击切换Tab栏USB音乐 
+                                   预期结果：
+                                   1.可以正常打开本地音乐，本地音乐界面显示正常 
+                                   2.可以切换USB音乐Tab栏 
+                                   "
+"broken","Thu Dec 07 11:21:33 CST 2023","Thu Dec 07 11:22:05 CST 2023","32142","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击微信",""
+"passed","Thu Dec 07 11:17:08 CST 2023","Thu Dec 07 11:17:16 CST 2023","7835","scripts","test-IVI-Music-01-03-01-005","TestCarcenter","","","点击蓝牙音乐的切换上一首按钮，切换上一首蓝牙音乐","前置条件：
                                    1.车机上电，中控屏处于开启状态
                                    2.车机系统初始状态
                                    测试步骤：
@@ -73,12 +69,7 @@
                                    1.可以正常打开本地音乐，本地音乐界面显示正常 
                                    2.可以切换上一首蓝牙音乐
                                    "
-"passed","Wed Dec 06 16:16:53 CST 2023","Wed Dec 06 16:16:56 CST 2023","3180","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击本地视频",""
-"passed","Wed Dec 06 16:17:31 CST 2023","Wed Dec 06 16:17:34 CST 2023","3893","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击泊车辅助",""
-"passed","Wed Dec 06 16:15:24 CST 2023","Wed Dec 06 16:15:28 CST 2023","3441","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击情景模式",""
-"passed","Wed Dec 06 16:16:43 CST 2023","Wed Dec 06 16:16:47 CST 2023","4239","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击工程模式",""
-"passed","Wed Dec 06 16:14:53 CST 2023","Wed Dec 06 16:14:59 CST 2023","5487","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击本地音乐",""
-"passed","Wed Dec 06 16:12:56 CST 2023","Wed Dec 06 16:12:59 CST 2023","3192","scripts","test-IVI-Music-01-01-01-010","TestCarcenter","","","切换本地音乐应用的Tab栏，切换到蓝牙音乐","前置条件：
+"passed","Thu Dec 07 11:16:32 CST 2023","Thu Dec 07 11:16:35 CST 2023","3253","scripts","test-IVI-Music-01-01-01-010","TestCarcenter","","","切换本地音乐应用的Tab栏，切换到蓝牙音乐","前置条件：
                                    1.车机上电，中控屏处于开启状态
                                    2.车机系统初始状态
                                    测试步骤：
@@ -88,4 +79,19 @@
                                    1.可以正常打开本地音乐，本地音乐界面显示正常 
                                    2.可以切换蓝牙音乐Tab栏 
                                    "
-"passed","Wed Dec 06 16:17:20 CST 2023","Wed Dec 06 16:17:25 CST 2023","4315","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击日程",""
+"passed","Thu Dec 07 11:24:05 CST 2023","Thu Dec 07 11:24:08 CST 2023","3722","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击泊车辅助",""
+"passed","Thu Dec 07 11:23:37 CST 2023","Thu Dec 07 11:23:41 CST 2023","4006","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击地图",""
+"passed","Thu Dec 07 11:17:44 CST 2023","Thu Dec 07 11:17:49 CST 2023","4387","scripts","test01_click_light","TestChangeCarcenter","","","点击灯光",""
+"passed","Thu Dec 07 11:17:37 CST 2023","Thu Dec 07 11:17:39 CST 2023","1802","scripts","test-IVI-Setting-01-01-01-001","TestCarcenter","","","test_click_settings",""
+"passed","Thu Dec 07 11:18:02 CST 2023","Thu Dec 07 11:18:03 CST 2023","1152","scripts","test01_click_light","TestChangeCarcenter","","","切换氛围灯",""
+"passed","Thu Dec 07 11:12:24 CST 2023","Thu Dec 07 11:12:27 CST 2023","2830","scripts","test01_click_light","TestChangeCarcenter","","","切换氛围灯",""
+"passed","Thu Dec 07 11:20:15 CST 2023","Thu Dec 07 11:20:22 CST 2023","6432","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击微场景",""
+"passed","Thu Dec 07 11:19:25 CST 2023","Thu Dec 07 11:19:28 CST 2023","3723","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击设置",""
+"passed","Thu Dec 07 11:23:55 CST 2023","Thu Dec 07 11:23:59 CST 2023","4004","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击日程",""
+"passed","Thu Dec 07 11:24:22 CST 2023","Thu Dec 07 11:24:27 CST 2023","4590","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击岚图商城",""
+"passed","Thu Dec 07 11:23:29 CST 2023","Thu Dec 07 11:23:32 CST 2023","3193","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击本地视频",""
+"passed","Thu Dec 07 11:18:16 CST 2023","Thu Dec 07 11:18:18 CST 2023","1648","scripts","test01_click_light","TestChangeCarcenter","","","切换效果设置",""
+"passed","Thu Dec 07 11:18:09 CST 2023","Thu Dec 07 11:18:10 CST 2023","1388","scripts","test01_click_light","TestChangeCarcenter","","","切换效果设置",""
+"passed","Thu Dec 07 11:19:55 CST 2023","Thu Dec 07 11:19:59 CST 2023","4447","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击雷石KTV",""
+"passed","Thu Dec 07 11:20:05 CST 2023","Thu Dec 07 11:20:10 CST 2023","4741","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击天气",""
+"passed","Thu Dec 07 11:23:19 CST 2023","Thu Dec 07 11:23:23 CST 2023","3934","scripts","test03_click_appicon","TestCarcenter","","","桌面页 - 点击工程模式",""

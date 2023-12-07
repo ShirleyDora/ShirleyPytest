@@ -1,0 +1,2 @@
+[32mINFO    [0m root:settings_page.py:14 正在点击桌面页的设置图标
+[32mINFO    [0m root:test-IVI-Setting-01-01-01-001.py:46 Fail,预期结果1.界面上车机名称默认不显示为“岚图”
